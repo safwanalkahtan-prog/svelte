@@ -1,21 +1,8 @@
-<a href="https://svelte.dev">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark.png">
-		<img src="assets/banner.png" alt="Svelte - web development for the rest of us" />
-	</picture>
-</a>
+로우추추프퓨추춫
+토토로러러푸푸퍼퍼파
+ㅗ로초처처초초ㅗㅊ
 
-[![License](https://img.shields.io/npm/l/svelte.svg)](LICENSE.md) [![Chat](https://img.shields.io/discord/457912077277855764?label=chat&logo=discord)](https://svelte.dev/chat)
-
-## What is Svelte?
-
-Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
-
-Learn more at the [Svelte website](https://svelte.dev), or stop by the [Discord chatroom](https://svelte.dev/chat).
-
-## Supporting Svelte
-
-Svelte is an MIT-licensed open source project with its ongoing development made possible entirely by fantastic volunteers. If you'd like to support their efforts, please consider:
+eir by fantastic volunteers. If you'd like to support their efforts, please consider:
 
 - [Becoming a backer on Open Collective](https://opencollective.com/svelte).
 
